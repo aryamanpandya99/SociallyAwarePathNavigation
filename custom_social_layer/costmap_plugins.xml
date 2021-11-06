@@ -1,0 +1,5 @@
+<library path="lib/libcustom_social_layer">
+  <class type="social_layer_namespace::SocialLayer" base_class_type="costmap_2d::Layer">
+    <description>Social layer that helps optimize navigation around people</description>
+  </class>
+</library>

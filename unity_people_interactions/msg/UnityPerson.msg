@@ -1,0 +1,3 @@
+custom_social_layer/Person current_pose
+custom_social_layer/Person future_pose
+std_msgs/Bool wand_pointing

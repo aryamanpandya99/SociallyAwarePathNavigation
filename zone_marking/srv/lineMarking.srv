@@ -1,0 +1,4 @@
+zone_marking/segment line
+std_msgs/String name
+---
+std_msgs/Bool outcome

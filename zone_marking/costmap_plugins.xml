@@ -1,0 +1,5 @@
+<library path="lib/libzone_marking">
+  <class type="marked_layer_namespace::markingLayer" base_class_type="costmap_2d::Layer">
+    <description>Demo Layer that adds a point 1 meter in front of the robot</description>
+  </class>
+</library>
