@@ -1,6 +1,6 @@
 ****This code is property of the Human-Robot Interaction Lab at Tufts University, Medford MA *****
 
-The goal was to program robots (using ros) to account for social norms while path planning. 
+The goal was to program robots (using ROS) to account for social norms while path planning. 
 
 This repository contains packages that leverage costmaps/occupancy grids to introduce 
 added functionality and awareness of the robot's environment. 
