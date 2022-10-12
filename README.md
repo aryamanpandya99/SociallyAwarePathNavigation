@@ -1,4 +1,4 @@
-****This code is property of the Human-Robot Interaction Lab at Tufts University, Medford MA *****
+****This code is property of the Human-Robot Interaction Lab at Tufts University, Medford MA ****
 
 The goal was to program robots (using ROS) to account for social norms while path planning. 
 
