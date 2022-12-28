@@ -1,4 +1,4 @@
-#Socially Aware Path Navigation 
+# Socially Aware Path Navigation 
 
 Code developed at HRI lab, Tufts University. 
 
