@@ -1,3 +1,5 @@
+#Socially Aware Path Navigation 
+
 Code developed at HRI lab, Tufts University. 
 
 The goal was to program robots (using ROS) to account for social norms while path planning. 
